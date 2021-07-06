@@ -104,7 +104,7 @@ function process {
     cd ..
   else
     echo "Checking out vertx-stomp-lite from git"
-    git clone https://github.com/kinotic-io/vertx-stomp-lite.git
+    git clone https://github.com/kinotic-foundation/vertx-stomp-lite.git
   fi
 
   repo=$(basename "${gitRepo}" .git)
