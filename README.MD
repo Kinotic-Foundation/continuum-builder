@@ -1,4 +1,4 @@
-# Continuum Builder 1.0.11
+# Continuum Builder 1.0.12
 Builds and pushes Docker projects to AWS ECR. 
 
 ## Build
